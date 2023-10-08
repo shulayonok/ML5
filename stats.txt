@@ -1,0 +1,14 @@
+Обучение:
+Iteration: 0, accuracy = 0.23869171885873347
+Iteration: 50, accuracy = 0.9269311064718163
+Iteration: 100, accuracy = 0.9519832985386222
+Iteration: 150, accuracy = 0.9624217118997912
+Iteration: 200, accuracy = 0.9659011830201809
+Iteration: 250, accuracy = 0.9728601252609603
+Iteration: 300, accuracy = 0.97633959638135
+Iteration: 350, accuracy = 0.9784272790535838
+Iteration: 400, accuracy = 0.9798190675017397
+Iteration: 450, accuracy = 0.9846903270702854
+Iteration: 500, accuracy = 0.9853862212943633
+
+Валидация: accuracy = 0.9637883008356546
